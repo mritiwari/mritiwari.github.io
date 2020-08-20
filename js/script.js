@@ -19,7 +19,7 @@ $(".imgGallary").slick({
 
 // MOBILE VIEW NAVBAR
 let hiddenmenu = document.getElementById("showHide");
-// console.log(hiddenmenu);
+//  console.log(hiddenmenu);
 
 let toggleopen = document.getElementById("toggleOpen");
 
